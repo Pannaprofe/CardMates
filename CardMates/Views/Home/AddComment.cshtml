@@ -1,0 +1,21 @@
+﻿@model CardMates.Models.CommentContext
+
+<div class="comment">
+    <hr />
+    <table>
+        <tr>
+            <td>
+                <div id="comment_attributes">
+                    <b>Author: </b> @comment.author
+                    <br />
+                    <b style="margin-right: 50px; float: right">@comment.comment_date</b>
+                </div>
+            </td>
+            <td>
+                <div align="center" id="comment_text">
+                    @comment.body
+                </div>
+            </td>
+        </tr>
+    </table>
+</div>

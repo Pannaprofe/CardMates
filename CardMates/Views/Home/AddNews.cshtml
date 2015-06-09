@@ -1,0 +1,23 @@
+﻿@{
+    ViewBag.Title = "AddNews";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>AddNews</h2>
+
+
+@using (Html.BeginForm())
+{
+    <h2>AddNews</h2>
+    <div class="add_news_title">
+        <label for="title">Тема</label>
+        <input type="text" name="news_name" id="title" style="width: 100%; height:200px" /><br />
+        <label for="context">Содержание</label>
+        <textarea name="news_full" id="content" style="width:100%"></textarea>
+        <label for="beginning">Краткое содержание для главной страницы</label>
+        <textarea name="news_start" id="beginning" style="width:100%"></textarea>
+        <label for="image">Изображение</label>
+        <input type="text" name="img_src" id="image" style="width:100%"><br />
+        <button type="submit">Добавить</button>
+    </div>
+}

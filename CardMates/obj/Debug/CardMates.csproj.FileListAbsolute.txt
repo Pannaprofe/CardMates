@@ -1,0 +1,390 @@
+C:\Users\Perfect one\Downloads\Kursovaya_Rabota\CardMates\Курсовая работа\CardMates\CardMates\CardMates\bin\Realmadrid.by.dll.config
+C:\Users\Perfect one\Downloads\Kursovaya_Rabota\CardMates\Курсовая работа\CardMates\CardMates\CardMates\bin\Realmadrid.by.dll
+C:\Users\Perfect one\Downloads\Kursovaya_Rabota\CardMates\Курсовая работа\CardMates\CardMates\CardMates\bin\Realmadrid.by.pdb
+C:\Users\Perfect one\Downloads\Kursovaya_Rabota\CardMates\Курсовая работа\CardMates\CardMates\CardMates\bin\Antlr3.Runtime.dll
+C:\Users\Perfect one\Downloads\Kursovaya_Rabota\CardMates\Курсовая работа\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Perfect one\Downloads\Kursovaya_Rabota\CardMates\Курсовая работа\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.Core.dll
+C:\Users\Perfect one\Downloads\Kursovaya_Rabota\CardMates\Курсовая работа\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Perfect one\Downloads\Kursovaya_Rabota\CardMates\Курсовая работа\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Perfect one\Downloads\Kursovaya_Rabota\CardMates\Курсовая работа\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Perfect one\Downloads\Kursovaya_Rabota\CardMates\Курсовая работа\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Perfect one\Downloads\Kursovaya_Rabota\CardMates\Курсовая работа\CardMates\CardMates\CardMates\bin\EntityFramework.dll
+C:\Users\Perfect one\Downloads\Kursovaya_Rabota\CardMates\Курсовая работа\CardMates\CardMates\CardMates\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Perfect one\Downloads\Kursovaya_Rabota\CardMates\Курсовая работа\CardMates\CardMates\CardMates\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Perfect one\Downloads\Kursovaya_Rabota\CardMates\Курсовая работа\CardMates\CardMates\CardMates\bin\Newtonsoft.Json.dll
+C:\Users\Perfect one\Downloads\Kursovaya_Rabota\CardMates\Курсовая работа\CardMates\CardMates\CardMates\bin\System.Net.Http.Formatting.dll
+C:\Users\Perfect one\Downloads\Kursovaya_Rabota\CardMates\Курсовая работа\CardMates\CardMates\CardMates\bin\System.Web.Helpers.dll
+C:\Users\Perfect one\Downloads\Kursovaya_Rabota\CardMates\Курсовая работа\CardMates\CardMates\CardMates\bin\System.Web.Http.dll
+C:\Users\Perfect one\Downloads\Kursovaya_Rabota\CardMates\Курсовая работа\CardMates\CardMates\CardMates\bin\System.Web.Http.WebHost.dll
+C:\Users\Perfect one\Downloads\Kursovaya_Rabota\CardMates\Курсовая работа\CardMates\CardMates\CardMates\bin\System.Web.Mvc.dll
+C:\Users\Perfect one\Downloads\Kursovaya_Rabota\CardMates\Курсовая работа\CardMates\CardMates\CardMates\bin\System.Web.Optimization.dll
+C:\Users\Perfect one\Downloads\Kursovaya_Rabota\CardMates\Курсовая работа\CardMates\CardMates\CardMates\bin\System.Web.Razor.dll
+C:\Users\Perfect one\Downloads\Kursovaya_Rabota\CardMates\Курсовая работа\CardMates\CardMates\CardMates\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Perfect one\Downloads\Kursovaya_Rabota\CardMates\Курсовая работа\CardMates\CardMates\CardMates\bin\System.Web.WebPages.dll
+C:\Users\Perfect one\Downloads\Kursovaya_Rabota\CardMates\Курсовая работа\CardMates\CardMates\CardMates\bin\System.Web.WebPages.Razor.dll
+C:\Users\Perfect one\Downloads\Kursovaya_Rabota\CardMates\Курсовая работа\CardMates\CardMates\CardMates\bin\WebGrease.dll
+C:\Users\Perfect one\Downloads\Kursovaya_Rabota\CardMates\Курсовая работа\CardMates\CardMates\CardMates\bin\WebMatrix.Data.dll
+C:\Users\Perfect one\Downloads\Kursovaya_Rabota\CardMates\Курсовая работа\CardMates\CardMates\CardMates\bin\WebMatrix.WebData.dll
+C:\Users\Perfect one\Downloads\Kursovaya_Rabota\CardMates\Курсовая работа\CardMates\CardMates\CardMates\bin\EntityFramework.xml
+C:\Users\Perfect one\Downloads\Kursovaya_Rabota\CardMates\Курсовая работа\CardMates\CardMates\CardMates\bin\Newtonsoft.Json.xml
+C:\Users\Perfect one\Downloads\Kursovaya_Rabota\CardMates\Курсовая работа\CardMates\CardMates\CardMates\bin\System.Net.Http.Formatting.xml
+C:\Users\Perfect one\Downloads\Kursovaya_Rabota\CardMates\Курсовая работа\CardMates\CardMates\CardMates\bin\System.Web.Helpers.xml
+C:\Users\Perfect one\Downloads\Kursovaya_Rabota\CardMates\Курсовая работа\CardMates\CardMates\CardMates\bin\System.Web.Http.xml
+C:\Users\Perfect one\Downloads\Kursovaya_Rabota\CardMates\Курсовая работа\CardMates\CardMates\CardMates\bin\System.Web.Http.WebHost.xml
+C:\Users\Perfect one\Downloads\Kursovaya_Rabota\CardMates\Курсовая работа\CardMates\CardMates\CardMates\bin\System.Web.Mvc.xml
+C:\Users\Perfect one\Downloads\Kursovaya_Rabota\CardMates\Курсовая работа\CardMates\CardMates\CardMates\bin\System.Web.Razor.xml
+C:\Users\Perfect one\Downloads\Kursovaya_Rabota\CardMates\Курсовая работа\CardMates\CardMates\CardMates\bin\System.Web.WebPages.xml
+C:\Users\Perfect one\Downloads\Kursovaya_Rabota\CardMates\Курсовая работа\CardMates\CardMates\CardMates\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Perfect one\Downloads\Kursovaya_Rabota\CardMates\Курсовая работа\CardMates\CardMates\CardMates\bin\System.Web.WebPages.Razor.xml
+C:\Users\Perfect one\Downloads\Kursovaya_Rabota\CardMates\Курсовая работа\CardMates\CardMates\CardMates\bin\WebMatrix.Data.xml
+C:\Users\Perfect one\Downloads\Kursovaya_Rabota\CardMates\Курсовая работа\CardMates\CardMates\CardMates\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Perfect one\Downloads\Kursovaya_Rabota\CardMates\Курсовая работа\CardMates\CardMates\CardMates\bin\WebMatrix.WebData.xml
+C:\Users\Perfect one\Downloads\Kursovaya_Rabota\CardMates\Курсовая работа\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Perfect one\Downloads\Kursovaya_Rabota\CardMates\Курсовая работа\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.Core.xml
+C:\Users\Perfect one\Downloads\Kursovaya_Rabota\CardMates\Курсовая работа\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Perfect one\Downloads\Kursovaya_Rabota\CardMates\Курсовая работа\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Perfect one\Downloads\Kursovaya_Rabota\CardMates\Курсовая работа\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Perfect one\Downloads\Kursovaya_Rabota\CardMates\Курсовая работа\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Perfect one\Downloads\Kursovaya_Rabota\CardMates\Курсовая работа\CardMates\CardMates\CardMates\obj\Debug\CardMates.csprojResolveAssemblyReference.cache
+C:\Users\Perfect one\Downloads\Kursovaya_Rabota\CardMates\Курсовая работа\CardMates\CardMates\CardMates\obj\Debug\CardMates.csproj.GenerateResource.Cache
+C:\Users\Perfect one\Downloads\Kursovaya_Rabota\CardMates\Курсовая работа\CardMates\CardMates\CardMates\obj\Debug\Realmadrid.by.dll
+C:\Users\Perfect one\Downloads\Kursovaya_Rabota\CardMates\Курсовая работа\CardMates\CardMates\CardMates\obj\Debug\Realmadrid.by.pdb
+C:\Users\Perfect one\Downloads\Kursovaya_Rabota\CardMates\Курсовая работа\CardMates\CardMates\CardMates\obj\Debug\CardMates.Migrations.InitialCreate.resources
+C:\Users\Perfect one\Downloads\Kursovaya_Rabota\CardMates\Курсовая работа\CardMates\CardMates\CardMates\obj\Debug\CardMates.Migrations.first.resources
+C:\Users\Perfect one\Downloads\Kursovaya_Rabota\CardMates\Курсовая работа\CardMates\CardMates\CardMates\obj\Debug\CardMates.Migrations.full_news1.resources
+C:\Users\Perfect one\Desktop\Курсовая работа\CardMates\CardMates\CardMates\bin\Realmadrid.by.dll.config
+C:\Users\Perfect one\Desktop\Курсовая работа\CardMates\CardMates\CardMates\bin\Realmadrid.by.dll
+C:\Users\Perfect one\Desktop\Курсовая работа\CardMates\CardMates\CardMates\bin\Realmadrid.by.pdb
+C:\Users\Perfect one\Desktop\Курсовая работа\CardMates\CardMates\CardMates\bin\Antlr3.Runtime.dll
+C:\Users\Perfect one\Desktop\Курсовая работа\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Perfect one\Desktop\Курсовая работа\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.Core.dll
+C:\Users\Perfect one\Desktop\Курсовая работа\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Perfect one\Desktop\Курсовая работа\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Perfect one\Desktop\Курсовая работа\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Perfect one\Desktop\Курсовая работа\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Perfect one\Desktop\Курсовая работа\CardMates\CardMates\CardMates\bin\EntityFramework.dll
+C:\Users\Perfect one\Desktop\Курсовая работа\CardMates\CardMates\CardMates\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Perfect one\Desktop\Курсовая работа\CardMates\CardMates\CardMates\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Perfect one\Desktop\Курсовая работа\CardMates\CardMates\CardMates\bin\Newtonsoft.Json.dll
+C:\Users\Perfect one\Desktop\Курсовая работа\CardMates\CardMates\CardMates\bin\System.Net.Http.Formatting.dll
+C:\Users\Perfect one\Desktop\Курсовая работа\CardMates\CardMates\CardMates\bin\System.Web.Helpers.dll
+C:\Users\Perfect one\Desktop\Курсовая работа\CardMates\CardMates\CardMates\bin\System.Web.Http.dll
+C:\Users\Perfect one\Desktop\Курсовая работа\CardMates\CardMates\CardMates\bin\System.Web.Http.WebHost.dll
+C:\Users\Perfect one\Desktop\Курсовая работа\CardMates\CardMates\CardMates\bin\System.Web.Mvc.dll
+C:\Users\Perfect one\Desktop\Курсовая работа\CardMates\CardMates\CardMates\bin\System.Web.Optimization.dll
+C:\Users\Perfect one\Desktop\Курсовая работа\CardMates\CardMates\CardMates\bin\System.Web.Razor.dll
+C:\Users\Perfect one\Desktop\Курсовая работа\CardMates\CardMates\CardMates\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Perfect one\Desktop\Курсовая работа\CardMates\CardMates\CardMates\bin\System.Web.WebPages.dll
+C:\Users\Perfect one\Desktop\Курсовая работа\CardMates\CardMates\CardMates\bin\System.Web.WebPages.Razor.dll
+C:\Users\Perfect one\Desktop\Курсовая работа\CardMates\CardMates\CardMates\bin\WebGrease.dll
+C:\Users\Perfect one\Desktop\Курсовая работа\CardMates\CardMates\CardMates\bin\WebMatrix.Data.dll
+C:\Users\Perfect one\Desktop\Курсовая работа\CardMates\CardMates\CardMates\bin\WebMatrix.WebData.dll
+C:\Users\Perfect one\Desktop\Курсовая работа\CardMates\CardMates\CardMates\bin\EntityFramework.xml
+C:\Users\Perfect one\Desktop\Курсовая работа\CardMates\CardMates\CardMates\bin\Newtonsoft.Json.xml
+C:\Users\Perfect one\Desktop\Курсовая работа\CardMates\CardMates\CardMates\bin\System.Net.Http.Formatting.xml
+C:\Users\Perfect one\Desktop\Курсовая работа\CardMates\CardMates\CardMates\bin\System.Web.Helpers.xml
+C:\Users\Perfect one\Desktop\Курсовая работа\CardMates\CardMates\CardMates\bin\System.Web.Http.xml
+C:\Users\Perfect one\Desktop\Курсовая работа\CardMates\CardMates\CardMates\bin\System.Web.Http.WebHost.xml
+C:\Users\Perfect one\Desktop\Курсовая работа\CardMates\CardMates\CardMates\bin\System.Web.Mvc.xml
+C:\Users\Perfect one\Desktop\Курсовая работа\CardMates\CardMates\CardMates\bin\System.Web.Razor.xml
+C:\Users\Perfect one\Desktop\Курсовая работа\CardMates\CardMates\CardMates\bin\System.Web.WebPages.xml
+C:\Users\Perfect one\Desktop\Курсовая работа\CardMates\CardMates\CardMates\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Perfect one\Desktop\Курсовая работа\CardMates\CardMates\CardMates\bin\System.Web.WebPages.Razor.xml
+C:\Users\Perfect one\Desktop\Курсовая работа\CardMates\CardMates\CardMates\bin\WebMatrix.Data.xml
+C:\Users\Perfect one\Desktop\Курсовая работа\CardMates\CardMates\CardMates\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Perfect one\Desktop\Курсовая работа\CardMates\CardMates\CardMates\bin\WebMatrix.WebData.xml
+C:\Users\Perfect one\Desktop\Курсовая работа\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Perfect one\Desktop\Курсовая работа\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.Core.xml
+C:\Users\Perfect one\Desktop\Курсовая работа\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Perfect one\Desktop\Курсовая работа\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Perfect one\Desktop\Курсовая работа\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Perfect one\Desktop\Курсовая работа\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Perfect one\Desktop\Курсовая работа\CardMates\CardMates\CardMates\obj\Debug\CardMates.csprojResolveAssemblyReference.cache
+C:\Users\Perfect one\Desktop\Курсовая работа\CardMates\CardMates\CardMates\obj\Debug\CardMates.Migrations.InitialCreate.resources
+C:\Users\Perfect one\Desktop\Курсовая работа\CardMates\CardMates\CardMates\obj\Debug\CardMates.Migrations.first.resources
+C:\Users\Perfect one\Desktop\Курсовая работа\CardMates\CardMates\CardMates\obj\Debug\CardMates.Migrations.full_news1.resources
+C:\Users\Perfect one\Desktop\Курсовая работа\CardMates\CardMates\CardMates\obj\Debug\CardMates.csproj.GenerateResource.Cache
+C:\Users\Perfect one\Desktop\Курсовая работа\CardMates\CardMates\CardMates\obj\Debug\Realmadrid.by.dll
+C:\Users\Perfect one\Desktop\Курсовая работа\CardMates\CardMates\CardMates\obj\Debug\Realmadrid.by.pdb
+G:\Курсовая работа\CardMates\CardMates\CardMates\bin\Realmadrid.by.dll.config
+G:\Курсовая работа\CardMates\CardMates\CardMates\bin\Realmadrid.by.dll
+G:\Курсовая работа\CardMates\CardMates\CardMates\bin\Realmadrid.by.pdb
+G:\Курсовая работа\CardMates\CardMates\CardMates\bin\Antlr3.Runtime.dll
+G:\Курсовая работа\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.AspNet.dll
+G:\Курсовая работа\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.Core.dll
+G:\Курсовая работа\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.OAuth.Consumer.dll
+G:\Курсовая работа\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.OAuth.dll
+G:\Курсовая работа\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.OpenId.dll
+G:\Курсовая работа\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+G:\Курсовая работа\CardMates\CardMates\CardMates\bin\EntityFramework.dll
+G:\Курсовая работа\CardMates\CardMates\CardMates\bin\Microsoft.Web.Infrastructure.dll
+G:\Курсовая работа\CardMates\CardMates\CardMates\bin\Microsoft.Web.WebPages.OAuth.dll
+G:\Курсовая работа\CardMates\CardMates\CardMates\bin\Newtonsoft.Json.dll
+G:\Курсовая работа\CardMates\CardMates\CardMates\bin\System.Net.Http.Formatting.dll
+G:\Курсовая работа\CardMates\CardMates\CardMates\bin\System.Web.Helpers.dll
+G:\Курсовая работа\CardMates\CardMates\CardMates\bin\System.Web.Http.dll
+G:\Курсовая работа\CardMates\CardMates\CardMates\bin\System.Web.Http.WebHost.dll
+G:\Курсовая работа\CardMates\CardMates\CardMates\bin\System.Web.Mvc.dll
+G:\Курсовая работа\CardMates\CardMates\CardMates\bin\System.Web.Optimization.dll
+G:\Курсовая работа\CardMates\CardMates\CardMates\bin\System.Web.Razor.dll
+G:\Курсовая работа\CardMates\CardMates\CardMates\bin\System.Web.WebPages.Deployment.dll
+G:\Курсовая работа\CardMates\CardMates\CardMates\bin\System.Web.WebPages.dll
+G:\Курсовая работа\CardMates\CardMates\CardMates\bin\System.Web.WebPages.Razor.dll
+G:\Курсовая работа\CardMates\CardMates\CardMates\bin\WebGrease.dll
+G:\Курсовая работа\CardMates\CardMates\CardMates\bin\WebMatrix.Data.dll
+G:\Курсовая работа\CardMates\CardMates\CardMates\bin\WebMatrix.WebData.dll
+G:\Курсовая работа\CardMates\CardMates\CardMates\bin\EntityFramework.xml
+G:\Курсовая работа\CardMates\CardMates\CardMates\bin\Newtonsoft.Json.xml
+G:\Курсовая работа\CardMates\CardMates\CardMates\bin\System.Net.Http.Formatting.xml
+G:\Курсовая работа\CardMates\CardMates\CardMates\bin\System.Web.Helpers.xml
+G:\Курсовая работа\CardMates\CardMates\CardMates\bin\System.Web.Http.xml
+G:\Курсовая работа\CardMates\CardMates\CardMates\bin\System.Web.Http.WebHost.xml
+G:\Курсовая работа\CardMates\CardMates\CardMates\bin\System.Web.Mvc.xml
+G:\Курсовая работа\CardMates\CardMates\CardMates\bin\System.Web.Razor.xml
+G:\Курсовая работа\CardMates\CardMates\CardMates\bin\System.Web.WebPages.xml
+G:\Курсовая работа\CardMates\CardMates\CardMates\bin\System.Web.WebPages.Deployment.xml
+G:\Курсовая работа\CardMates\CardMates\CardMates\bin\System.Web.WebPages.Razor.xml
+G:\Курсовая работа\CardMates\CardMates\CardMates\bin\WebMatrix.Data.xml
+G:\Курсовая работа\CardMates\CardMates\CardMates\bin\Microsoft.Web.WebPages.OAuth.xml
+G:\Курсовая работа\CardMates\CardMates\CardMates\bin\WebMatrix.WebData.xml
+G:\Курсовая работа\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.AspNet.xml
+G:\Курсовая работа\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.Core.xml
+G:\Курсовая работа\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.OAuth.Consumer.xml
+G:\Курсовая работа\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.OAuth.xml
+G:\Курсовая работа\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.OpenId.xml
+G:\Курсовая работа\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+G:\Курсовая работа\CardMates\CardMates\CardMates\obj\Debug\CardMates.csprojResolveAssemblyReference.cache
+G:\Курсовая работа\CardMates\CardMates\CardMates\obj\Debug\CardMates.Migrations.InitialCreate.resources
+G:\Курсовая работа\CardMates\CardMates\CardMates\obj\Debug\CardMates.Migrations.first.resources
+G:\Курсовая работа\CardMates\CardMates\CardMates\obj\Debug\CardMates.Migrations.full_news1.resources
+G:\Курсовая работа\CardMates\CardMates\CardMates\obj\Debug\CardMates.csproj.GenerateResource.Cache
+G:\Курсовая работа\CardMates\CardMates\CardMates\obj\Debug\Realmadrid.by.dll
+G:\Курсовая работа\CardMates\CardMates\CardMates\obj\Debug\Realmadrid.by.pdb
+C:\Users\Perfect one\Desktop\CardMates\CardMates\CardMates\bin\Realmadrid.by.dll.config
+C:\Users\Perfect one\Desktop\CardMates\CardMates\CardMates\bin\Realmadrid.by.dll
+C:\Users\Perfect one\Desktop\CardMates\CardMates\CardMates\bin\Realmadrid.by.pdb
+C:\Users\Perfect one\Desktop\CardMates\CardMates\CardMates\bin\Antlr3.Runtime.dll
+C:\Users\Perfect one\Desktop\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Perfect one\Desktop\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.Core.dll
+C:\Users\Perfect one\Desktop\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Perfect one\Desktop\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Perfect one\Desktop\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Perfect one\Desktop\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Perfect one\Desktop\CardMates\CardMates\CardMates\bin\EntityFramework.dll
+C:\Users\Perfect one\Desktop\CardMates\CardMates\CardMates\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Perfect one\Desktop\CardMates\CardMates\CardMates\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Perfect one\Desktop\CardMates\CardMates\CardMates\bin\Newtonsoft.Json.dll
+C:\Users\Perfect one\Desktop\CardMates\CardMates\CardMates\bin\System.Net.Http.Formatting.dll
+C:\Users\Perfect one\Desktop\CardMates\CardMates\CardMates\bin\System.Web.Helpers.dll
+C:\Users\Perfect one\Desktop\CardMates\CardMates\CardMates\bin\System.Web.Http.dll
+C:\Users\Perfect one\Desktop\CardMates\CardMates\CardMates\bin\System.Web.Http.WebHost.dll
+C:\Users\Perfect one\Desktop\CardMates\CardMates\CardMates\bin\System.Web.Mvc.dll
+C:\Users\Perfect one\Desktop\CardMates\CardMates\CardMates\bin\System.Web.Optimization.dll
+C:\Users\Perfect one\Desktop\CardMates\CardMates\CardMates\bin\System.Web.Razor.dll
+C:\Users\Perfect one\Desktop\CardMates\CardMates\CardMates\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Perfect one\Desktop\CardMates\CardMates\CardMates\bin\System.Web.WebPages.dll
+C:\Users\Perfect one\Desktop\CardMates\CardMates\CardMates\bin\System.Web.WebPages.Razor.dll
+C:\Users\Perfect one\Desktop\CardMates\CardMates\CardMates\bin\WebGrease.dll
+C:\Users\Perfect one\Desktop\CardMates\CardMates\CardMates\bin\WebMatrix.Data.dll
+C:\Users\Perfect one\Desktop\CardMates\CardMates\CardMates\bin\WebMatrix.WebData.dll
+C:\Users\Perfect one\Desktop\CardMates\CardMates\CardMates\bin\EntityFramework.xml
+C:\Users\Perfect one\Desktop\CardMates\CardMates\CardMates\bin\Newtonsoft.Json.xml
+C:\Users\Perfect one\Desktop\CardMates\CardMates\CardMates\bin\System.Net.Http.Formatting.xml
+C:\Users\Perfect one\Desktop\CardMates\CardMates\CardMates\bin\System.Web.Helpers.xml
+C:\Users\Perfect one\Desktop\CardMates\CardMates\CardMates\bin\System.Web.Http.xml
+C:\Users\Perfect one\Desktop\CardMates\CardMates\CardMates\bin\System.Web.Http.WebHost.xml
+C:\Users\Perfect one\Desktop\CardMates\CardMates\CardMates\bin\System.Web.Mvc.xml
+C:\Users\Perfect one\Desktop\CardMates\CardMates\CardMates\bin\System.Web.Razor.xml
+C:\Users\Perfect one\Desktop\CardMates\CardMates\CardMates\bin\System.Web.WebPages.xml
+C:\Users\Perfect one\Desktop\CardMates\CardMates\CardMates\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Perfect one\Desktop\CardMates\CardMates\CardMates\bin\System.Web.WebPages.Razor.xml
+C:\Users\Perfect one\Desktop\CardMates\CardMates\CardMates\bin\WebMatrix.Data.xml
+C:\Users\Perfect one\Desktop\CardMates\CardMates\CardMates\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Perfect one\Desktop\CardMates\CardMates\CardMates\bin\WebMatrix.WebData.xml
+C:\Users\Perfect one\Desktop\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Perfect one\Desktop\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.Core.xml
+C:\Users\Perfect one\Desktop\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Perfect one\Desktop\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Perfect one\Desktop\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Perfect one\Desktop\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Perfect one\Desktop\CardMates\CardMates\CardMates\obj\Debug\CardMates.csprojResolveAssemblyReference.cache
+C:\Users\Perfect one\Desktop\CardMates\CardMates\CardMates\obj\Debug\CardMates.Migrations.InitialCreate.resources
+C:\Users\Perfect one\Desktop\CardMates\CardMates\CardMates\obj\Debug\CardMates.Migrations.first.resources
+C:\Users\Perfect one\Desktop\CardMates\CardMates\CardMates\obj\Debug\CardMates.Migrations.full_news1.resources
+C:\Users\Perfect one\Desktop\CardMates\CardMates\CardMates\obj\Debug\CardMates.csproj.GenerateResource.Cache
+C:\Users\Perfect one\Desktop\CardMates\CardMates\CardMates\obj\Debug\Realmadrid.by.dll
+C:\Users\Perfect one\Desktop\CardMates\CardMates\CardMates\obj\Debug\Realmadrid.by.pdb
+C:\Users\Perfect one\Desktop\CardMates\CardMates\CardMates\obj\Debug\CardMates.Migrations.AddComments.resources
+C:\Users\Perfect one\Desktop\CardMates\CardMates\CardMates\obj\Debug\CardMates.Migrations.AddAdmin.resources
+g:\v1\CardMates\CardMates\CardMates\bin\Realmadrid.by.dll.config
+g:\v1\CardMates\CardMates\CardMates\bin\Realmadrid.by.dll
+g:\v1\CardMates\CardMates\CardMates\bin\Realmadrid.by.pdb
+g:\v1\CardMates\CardMates\CardMates\bin\Antlr3.Runtime.dll
+g:\v1\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.AspNet.dll
+g:\v1\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.Core.dll
+g:\v1\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.OAuth.Consumer.dll
+g:\v1\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.OAuth.dll
+g:\v1\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.OpenId.dll
+g:\v1\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+g:\v1\CardMates\CardMates\CardMates\bin\EntityFramework.dll
+g:\v1\CardMates\CardMates\CardMates\bin\Microsoft.Web.Infrastructure.dll
+g:\v1\CardMates\CardMates\CardMates\bin\Microsoft.Web.WebPages.OAuth.dll
+g:\v1\CardMates\CardMates\CardMates\bin\Newtonsoft.Json.dll
+g:\v1\CardMates\CardMates\CardMates\bin\System.Net.Http.Formatting.dll
+g:\v1\CardMates\CardMates\CardMates\bin\System.Web.Helpers.dll
+g:\v1\CardMates\CardMates\CardMates\bin\System.Web.Http.dll
+g:\v1\CardMates\CardMates\CardMates\bin\System.Web.Http.WebHost.dll
+g:\v1\CardMates\CardMates\CardMates\bin\System.Web.Mvc.dll
+g:\v1\CardMates\CardMates\CardMates\bin\System.Web.Optimization.dll
+g:\v1\CardMates\CardMates\CardMates\bin\System.Web.Razor.dll
+g:\v1\CardMates\CardMates\CardMates\bin\System.Web.WebPages.Deployment.dll
+g:\v1\CardMates\CardMates\CardMates\bin\System.Web.WebPages.dll
+g:\v1\CardMates\CardMates\CardMates\bin\System.Web.WebPages.Razor.dll
+g:\v1\CardMates\CardMates\CardMates\bin\WebGrease.dll
+g:\v1\CardMates\CardMates\CardMates\bin\WebMatrix.Data.dll
+g:\v1\CardMates\CardMates\CardMates\bin\WebMatrix.WebData.dll
+g:\v1\CardMates\CardMates\CardMates\bin\EntityFramework.xml
+g:\v1\CardMates\CardMates\CardMates\bin\Newtonsoft.Json.xml
+g:\v1\CardMates\CardMates\CardMates\bin\System.Net.Http.Formatting.xml
+g:\v1\CardMates\CardMates\CardMates\bin\System.Web.Helpers.xml
+g:\v1\CardMates\CardMates\CardMates\bin\System.Web.Http.xml
+g:\v1\CardMates\CardMates\CardMates\bin\System.Web.Http.WebHost.xml
+g:\v1\CardMates\CardMates\CardMates\bin\System.Web.Mvc.xml
+g:\v1\CardMates\CardMates\CardMates\bin\System.Web.Razor.xml
+g:\v1\CardMates\CardMates\CardMates\bin\System.Web.WebPages.xml
+g:\v1\CardMates\CardMates\CardMates\bin\System.Web.WebPages.Deployment.xml
+g:\v1\CardMates\CardMates\CardMates\bin\System.Web.WebPages.Razor.xml
+g:\v1\CardMates\CardMates\CardMates\bin\WebMatrix.Data.xml
+g:\v1\CardMates\CardMates\CardMates\bin\Microsoft.Web.WebPages.OAuth.xml
+g:\v1\CardMates\CardMates\CardMates\bin\WebMatrix.WebData.xml
+g:\v1\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.AspNet.xml
+g:\v1\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.Core.xml
+g:\v1\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.OAuth.Consumer.xml
+g:\v1\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.OAuth.xml
+g:\v1\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.OpenId.xml
+g:\v1\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+g:\v1\CardMates\CardMates\CardMates\obj\Debug\CardMates.csprojResolveAssemblyReference.cache
+g:\v1\CardMates\CardMates\CardMates\obj\Debug\CardMates.Migrations.InitialCreate.resources
+g:\v1\CardMates\CardMates\CardMates\obj\Debug\CardMates.Migrations.first.resources
+g:\v1\CardMates\CardMates\CardMates\obj\Debug\CardMates.Migrations.full_news1.resources
+g:\v1\CardMates\CardMates\CardMates\obj\Debug\CardMates.Migrations.AddComments.resources
+g:\v1\CardMates\CardMates\CardMates\obj\Debug\CardMates.Migrations.AddAdmin.resources
+g:\v1\CardMates\CardMates\CardMates\obj\Debug\CardMates.csproj.GenerateResource.Cache
+g:\v1\CardMates\CardMates\CardMates\obj\Debug\Realmadrid.by.dll
+g:\v1\CardMates\CardMates\CardMates\obj\Debug\Realmadrid.by.pdb
+C:\Users\Perfect one\Desktop\Для сдачи\CardMates\CardMates\CardMates\bin\Realmadrid.by.dll.config
+C:\Users\Perfect one\Desktop\Для сдачи\CardMates\CardMates\CardMates\bin\Realmadrid.by.dll
+C:\Users\Perfect one\Desktop\Для сдачи\CardMates\CardMates\CardMates\bin\Realmadrid.by.pdb
+C:\Users\Perfect one\Desktop\Для сдачи\CardMates\CardMates\CardMates\bin\Antlr3.Runtime.dll
+C:\Users\Perfect one\Desktop\Для сдачи\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Perfect one\Desktop\Для сдачи\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.Core.dll
+C:\Users\Perfect one\Desktop\Для сдачи\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Perfect one\Desktop\Для сдачи\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Perfect one\Desktop\Для сдачи\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Perfect one\Desktop\Для сдачи\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Perfect one\Desktop\Для сдачи\CardMates\CardMates\CardMates\bin\EntityFramework.dll
+C:\Users\Perfect one\Desktop\Для сдачи\CardMates\CardMates\CardMates\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Perfect one\Desktop\Для сдачи\CardMates\CardMates\CardMates\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Perfect one\Desktop\Для сдачи\CardMates\CardMates\CardMates\bin\Newtonsoft.Json.dll
+C:\Users\Perfect one\Desktop\Для сдачи\CardMates\CardMates\CardMates\bin\System.Net.Http.Formatting.dll
+C:\Users\Perfect one\Desktop\Для сдачи\CardMates\CardMates\CardMates\bin\System.Web.Helpers.dll
+C:\Users\Perfect one\Desktop\Для сдачи\CardMates\CardMates\CardMates\bin\System.Web.Http.dll
+C:\Users\Perfect one\Desktop\Для сдачи\CardMates\CardMates\CardMates\bin\System.Web.Http.WebHost.dll
+C:\Users\Perfect one\Desktop\Для сдачи\CardMates\CardMates\CardMates\bin\System.Web.Mvc.dll
+C:\Users\Perfect one\Desktop\Для сдачи\CardMates\CardMates\CardMates\bin\System.Web.Optimization.dll
+C:\Users\Perfect one\Desktop\Для сдачи\CardMates\CardMates\CardMates\bin\System.Web.Razor.dll
+C:\Users\Perfect one\Desktop\Для сдачи\CardMates\CardMates\CardMates\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Perfect one\Desktop\Для сдачи\CardMates\CardMates\CardMates\bin\System.Web.WebPages.dll
+C:\Users\Perfect one\Desktop\Для сдачи\CardMates\CardMates\CardMates\bin\System.Web.WebPages.Razor.dll
+C:\Users\Perfect one\Desktop\Для сдачи\CardMates\CardMates\CardMates\bin\WebGrease.dll
+C:\Users\Perfect one\Desktop\Для сдачи\CardMates\CardMates\CardMates\bin\WebMatrix.Data.dll
+C:\Users\Perfect one\Desktop\Для сдачи\CardMates\CardMates\CardMates\bin\WebMatrix.WebData.dll
+C:\Users\Perfect one\Desktop\Для сдачи\CardMates\CardMates\CardMates\bin\EntityFramework.xml
+C:\Users\Perfect one\Desktop\Для сдачи\CardMates\CardMates\CardMates\bin\Newtonsoft.Json.xml
+C:\Users\Perfect one\Desktop\Для сдачи\CardMates\CardMates\CardMates\bin\System.Net.Http.Formatting.xml
+C:\Users\Perfect one\Desktop\Для сдачи\CardMates\CardMates\CardMates\bin\System.Web.Helpers.xml
+C:\Users\Perfect one\Desktop\Для сдачи\CardMates\CardMates\CardMates\bin\System.Web.Http.xml
+C:\Users\Perfect one\Desktop\Для сдачи\CardMates\CardMates\CardMates\bin\System.Web.Http.WebHost.xml
+C:\Users\Perfect one\Desktop\Для сдачи\CardMates\CardMates\CardMates\bin\System.Web.Mvc.xml
+C:\Users\Perfect one\Desktop\Для сдачи\CardMates\CardMates\CardMates\bin\System.Web.Razor.xml
+C:\Users\Perfect one\Desktop\Для сдачи\CardMates\CardMates\CardMates\bin\System.Web.WebPages.xml
+C:\Users\Perfect one\Desktop\Для сдачи\CardMates\CardMates\CardMates\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Perfect one\Desktop\Для сдачи\CardMates\CardMates\CardMates\bin\System.Web.WebPages.Razor.xml
+C:\Users\Perfect one\Desktop\Для сдачи\CardMates\CardMates\CardMates\bin\WebMatrix.Data.xml
+C:\Users\Perfect one\Desktop\Для сдачи\CardMates\CardMates\CardMates\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Perfect one\Desktop\Для сдачи\CardMates\CardMates\CardMates\bin\WebMatrix.WebData.xml
+C:\Users\Perfect one\Desktop\Для сдачи\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Perfect one\Desktop\Для сдачи\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.Core.xml
+C:\Users\Perfect one\Desktop\Для сдачи\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Perfect one\Desktop\Для сдачи\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Perfect one\Desktop\Для сдачи\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Perfect one\Desktop\Для сдачи\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Perfect one\Desktop\Для сдачи\CardMates\CardMates\CardMates\obj\Debug\CardMates.csprojResolveAssemblyReference.cache
+C:\Users\Perfect one\Desktop\Для сдачи\CardMates\CardMates\CardMates\obj\Debug\CardMates.Migrations.InitialCreate.resources
+C:\Users\Perfect one\Desktop\Для сдачи\CardMates\CardMates\CardMates\obj\Debug\CardMates.Migrations.first.resources
+C:\Users\Perfect one\Desktop\Для сдачи\CardMates\CardMates\CardMates\obj\Debug\CardMates.Migrations.full_news1.resources
+C:\Users\Perfect one\Desktop\Для сдачи\CardMates\CardMates\CardMates\obj\Debug\CardMates.Migrations.AddComments.resources
+C:\Users\Perfect one\Desktop\Для сдачи\CardMates\CardMates\CardMates\obj\Debug\CardMates.Migrations.AddAdmin.resources
+C:\Users\Perfect one\Desktop\Для сдачи\CardMates\CardMates\CardMates\obj\Debug\CardMates.csproj.GenerateResource.Cache
+C:\Users\Perfect one\Desktop\Для сдачи\CardMates\CardMates\CardMates\obj\Debug\Realmadrid.by.dll
+C:\Users\Perfect one\Desktop\Для сдачи\CardMates\CardMates\CardMates\obj\Debug\Realmadrid.by.pdb
+C:\Users\Perfect one\Desktop\Для сдачи\CardMates\CardMates\CardMates\obj\Debug\CardMates.Migrations.img.resources
+C:\Users\Perfect one\Desktop\Pass\CardMates\CardMates\CardMates\bin\Realmadrid.by.dll.config
+C:\Users\Perfect one\Desktop\Pass\CardMates\CardMates\CardMates\bin\Realmadrid.by.dll
+C:\Users\Perfect one\Desktop\Pass\CardMates\CardMates\CardMates\bin\Realmadrid.by.pdb
+C:\Users\Perfect one\Desktop\Pass\CardMates\CardMates\CardMates\bin\Antlr3.Runtime.dll
+C:\Users\Perfect one\Desktop\Pass\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Perfect one\Desktop\Pass\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.Core.dll
+C:\Users\Perfect one\Desktop\Pass\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Perfect one\Desktop\Pass\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Perfect one\Desktop\Pass\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Perfect one\Desktop\Pass\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Perfect one\Desktop\Pass\CardMates\CardMates\CardMates\bin\EntityFramework.dll
+C:\Users\Perfect one\Desktop\Pass\CardMates\CardMates\CardMates\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Perfect one\Desktop\Pass\CardMates\CardMates\CardMates\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Perfect one\Desktop\Pass\CardMates\CardMates\CardMates\bin\Newtonsoft.Json.dll
+C:\Users\Perfect one\Desktop\Pass\CardMates\CardMates\CardMates\bin\System.Net.Http.Formatting.dll
+C:\Users\Perfect one\Desktop\Pass\CardMates\CardMates\CardMates\bin\System.Web.Helpers.dll
+C:\Users\Perfect one\Desktop\Pass\CardMates\CardMates\CardMates\bin\System.Web.Http.dll
+C:\Users\Perfect one\Desktop\Pass\CardMates\CardMates\CardMates\bin\System.Web.Http.WebHost.dll
+C:\Users\Perfect one\Desktop\Pass\CardMates\CardMates\CardMates\bin\System.Web.Mvc.dll
+C:\Users\Perfect one\Desktop\Pass\CardMates\CardMates\CardMates\bin\System.Web.Optimization.dll
+C:\Users\Perfect one\Desktop\Pass\CardMates\CardMates\CardMates\bin\System.Web.Razor.dll
+C:\Users\Perfect one\Desktop\Pass\CardMates\CardMates\CardMates\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Perfect one\Desktop\Pass\CardMates\CardMates\CardMates\bin\System.Web.WebPages.dll
+C:\Users\Perfect one\Desktop\Pass\CardMates\CardMates\CardMates\bin\System.Web.WebPages.Razor.dll
+C:\Users\Perfect one\Desktop\Pass\CardMates\CardMates\CardMates\bin\WebGrease.dll
+C:\Users\Perfect one\Desktop\Pass\CardMates\CardMates\CardMates\bin\WebMatrix.Data.dll
+C:\Users\Perfect one\Desktop\Pass\CardMates\CardMates\CardMates\bin\WebMatrix.WebData.dll
+C:\Users\Perfect one\Desktop\Pass\CardMates\CardMates\CardMates\bin\EntityFramework.xml
+C:\Users\Perfect one\Desktop\Pass\CardMates\CardMates\CardMates\bin\Newtonsoft.Json.xml
+C:\Users\Perfect one\Desktop\Pass\CardMates\CardMates\CardMates\bin\System.Net.Http.Formatting.xml
+C:\Users\Perfect one\Desktop\Pass\CardMates\CardMates\CardMates\bin\System.Web.Helpers.xml
+C:\Users\Perfect one\Desktop\Pass\CardMates\CardMates\CardMates\bin\System.Web.Http.xml
+C:\Users\Perfect one\Desktop\Pass\CardMates\CardMates\CardMates\bin\System.Web.Http.WebHost.xml
+C:\Users\Perfect one\Desktop\Pass\CardMates\CardMates\CardMates\bin\System.Web.Mvc.xml
+C:\Users\Perfect one\Desktop\Pass\CardMates\CardMates\CardMates\bin\System.Web.Razor.xml
+C:\Users\Perfect one\Desktop\Pass\CardMates\CardMates\CardMates\bin\System.Web.WebPages.xml
+C:\Users\Perfect one\Desktop\Pass\CardMates\CardMates\CardMates\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Perfect one\Desktop\Pass\CardMates\CardMates\CardMates\bin\System.Web.WebPages.Razor.xml
+C:\Users\Perfect one\Desktop\Pass\CardMates\CardMates\CardMates\bin\WebMatrix.Data.xml
+C:\Users\Perfect one\Desktop\Pass\CardMates\CardMates\CardMates\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Perfect one\Desktop\Pass\CardMates\CardMates\CardMates\bin\WebMatrix.WebData.xml
+C:\Users\Perfect one\Desktop\Pass\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Perfect one\Desktop\Pass\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.Core.xml
+C:\Users\Perfect one\Desktop\Pass\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Perfect one\Desktop\Pass\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Perfect one\Desktop\Pass\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Perfect one\Desktop\Pass\CardMates\CardMates\CardMates\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Perfect one\Desktop\Pass\CardMates\CardMates\CardMates\obj\Debug\CardMates.Migrations.InitialCreate.resources
+C:\Users\Perfect one\Desktop\Pass\CardMates\CardMates\CardMates\obj\Debug\CardMates.Migrations.first.resources
+C:\Users\Perfect one\Desktop\Pass\CardMates\CardMates\CardMates\obj\Debug\CardMates.Migrations.full_news1.resources
+C:\Users\Perfect one\Desktop\Pass\CardMates\CardMates\CardMates\obj\Debug\CardMates.Migrations.AddComments.resources
+C:\Users\Perfect one\Desktop\Pass\CardMates\CardMates\CardMates\obj\Debug\CardMates.Migrations.AddAdmin.resources
+C:\Users\Perfect one\Desktop\Pass\CardMates\CardMates\CardMates\obj\Debug\CardMates.Migrations.img.resources
+C:\Users\Perfect one\Desktop\Pass\CardMates\CardMates\CardMates\obj\Debug\CardMates.csproj.GenerateResource.Cache
+C:\Users\Perfect one\Desktop\Pass\CardMates\CardMates\CardMates\obj\Debug\Realmadrid.by.dll
+C:\Users\Perfect one\Desktop\Pass\CardMates\CardMates\CardMates\obj\Debug\Realmadrid.by.pdb
+C:\Users\Perfect one\Desktop\Pass\CardMates\CardMates\CardMates\obj\Debug\CardMates.Migrations.newsID.resources
+C:\Users\Perfect one\Desktop\Pass\CardMates\CardMates\CardMates\obj\Debug\CardMates.Migrations.newsID1.resources
+C:\Users\Perfect one\Desktop\Pass\CardMates\CardMates\CardMates\obj\Debug\CardMates.csprojResolveAssemblyReference.cache

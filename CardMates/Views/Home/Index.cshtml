@@ -1,0 +1,59 @@
+﻿@using CardMates.Models
+@model IEnumerable<CardMates.Models.NewOne>
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@{
+    List<NewOne> asideNewsList = new List<NewOne>(3);
+    var r = new Random();
+    var randomNumber = r.Next();
+    for (int i = 0; i < 3; i++)
+    {
+        int rndnum = r.Next(1, Model.Count());
+        while(asideNewsList.Contains(Model.ElementAt(rndnum)))
+        {
+            rndnum = r.Next(1, Model.Count());
+        }
+        asideNewsList.Add(Model.ElementAt(rndnum));
+    }
+}
+
+   
+<article>
+    <div>
+        @if (ViewBag.IsAdmin == true)
+        {
+            <button style="text-align: center; position: absolute; left: 30%;">@Html.ActionLink("Add News", "AddNews", "Home")</button>
+            <br/><br/><hr/>
+        }
+        @foreach (CardMates.Models.NewOne FreshNews in Model)
+        {
+            if (ViewBag.IsAdmin == true)
+            {
+                @Html.ActionLink("Delete", "DeleteNews", new {id = @FreshNews.news_ID})
+            }
+
+            <h1 style="text-align: center"> @Html.ActionLink(@FreshNews.news_name, "News", new {id = @FreshNews.news_ID})</h1>
+            <h6 style="text-align: center">@FreshNews.news_date</h6>
+            <p align="center">
+                <img src="@FreshNews.img_src" align="middle" width="800"/>
+            </p>
+            <p>@FreshNews.news_start</p>
+            <hr/>
+            <br/>
+        }
+    </div>
+</article>
+<aside>
+    <h3>Must Read</h3>
+    <div>
+        @foreach (CardMates.Models.NewOne MustReadNews in asideNewsList)
+        {
+            
+            <h4 style="text-align: center"> @Html.ActionLink(@MustReadNews.news_name, "News", new {id = @MustReadNews.news_ID})</h4>
+            <p align="center">
+                <img src="@MustReadNews.img_src" align="middle" width="100"/>
+            </p>
+        }
+    </div>
+</aside>

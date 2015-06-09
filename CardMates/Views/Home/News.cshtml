@@ -1,0 +1,91 @@
+﻿@using System.Text
+@using CardMates
+@using CardMates.Models
+
+@model CardMates.Models.NewOne
+@{
+    ViewBag.Title = "News"; 
+}
+@{
+    string AllNews;
+    try
+    {
+        using (StreamReader sr = new StreamReader(@Model.news_full))
+        {
+            string line;
+            StringBuilder sb = new StringBuilder();
+            while ((line = sr.ReadLine()) != null)
+            {
+                sb.Append(line);
+            }
+            AllNews = sb.ToString();
+        }
+    }
+    catch (Exception)
+    {
+  
+        throw;
+    }
+}
+
+<article>
+    <h1 class="title">@Model.news_name</h1>
+    <p align="center">
+        <img src="@Model.img_src"width="800" align="middle"/>
+    </p>
+    <div align="justify" style="margin-left: 90px; max-width: 750px">@AllNews</div>
+
+    @{
+        foreach (var comment in @ViewBag.db.Comments)
+        {
+            if (@ViewBag.ID == @comment.news_id)
+            {
+
+                <div class="comment">
+                    <hr/>
+                    <table>
+                        <tr>
+                            <td>
+                                <div id="comment_attributes">
+                                    <b>Author: </b> @comment.author
+                                    <br/>
+                                    <b style="margin-right: 50px; float: right">@comment.comment_date</b>
+                                </div>
+                            </td>
+                            <td>
+                                <div align="center" id="comment_text">
+                                    @comment.body
+                                </div>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+            }
+        }
+    }
+
+    <br/>
+    <div id="result"></div>
+    <h3 style="text-align: center">Leave Comment</h3>
+    <form action="/Home/AddComment" method="post" id="comment_form" data-ajax="true" data-ajax-mode="replace" data-ajax-update="#result">
+        <p align="center"><textarea name="comment" id="comment" style="width: 70%" rows="4"></textarea>
+        </p>
+        <input style="margin-left: 700px; margin-top: 5px; width: 100px" type="submit" value="Add"/>
+    </form>
+    @Scripts.Render("~/scripts/jquery-1.7.1.min.js")
+    @Scripts.Render("~/scripts/jquery.unobtrusive-ajax.min.js")
+</article>
+<aside>
+    <h3>Must Read</h3>
+    <div>
+
+    @foreach (NewOne news in (ViewBag.OtherNews))
+    {
+        <p align="center">
+                <img src="@news.img_src" align="middle" width="300" />
+        </p>
+        <h4 style="text-align: center"> <a href="~/Home/News?id=@news.news_ID">@news.news_name</a></h4>
+    }
+
+    </div>
+</aside>
